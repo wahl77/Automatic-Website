@@ -1,0 +1,12 @@
+gem 'pry'
+gem 'pry-rails'
+gem 'better_errors'
+gem 'binding_of_caller'
+gem 'meta_request'
+gem 'sinatra'
+
+gem 'pry-debugger'
+gem 'guard-rspec'
+gem 'guard-bundler'
+gem 'capybara'
+gem 'selenium-webdriver'
