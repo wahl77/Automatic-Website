@@ -1,3 +1,4 @@
+source 'https://rubygems.org'
 gem 'pry'
 gem 'pry-rails'
 gem 'better_errors'
